@@ -79,6 +79,7 @@ let
     dependencies = [
       einops
       torch
+      psutil
     ];
 
     # The CuTeDSL implementation (flash_attn/cute) is the FlashAttention-4 module,
